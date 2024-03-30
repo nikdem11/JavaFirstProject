@@ -1,0 +1,102 @@
+[
+    {
+        "language": "Bulgarian",
+        "text": "\u0417\u0434\u0440\u0430\u0432\u0435\u0439, \u043a\u0430\u043a \u0441\u0438?",
+        "hint": "Slavic language written in Cyrillic script."
+    },
+    {
+        "language": "Turkish",
+        "text": "Merhaba, nas\u0131ls\u0131n\u0131z?",
+        "hint": "Language spoken in Turkey and Cyprus."
+    },
+    {
+        "language": "Slovak",
+        "text": "Ahoj, ako sa m\u00e1\u0161?",
+        "hint": "Language spoken in Slovakia."
+    },
+    {
+        "language": "French",
+        "text": "Bonjour, comment \u00e7a va?",
+        "hint": "Romance language, famous for the Eiffel Tower."
+    },
+    {
+        "language": "Greek",
+        "text": "\u0393\u03b5\u03b9\u03ac \u03c3\u03bf\u03c5, \u03c0\u03ce\u03c2 \u03b5\u03af\u03c3\u03b1\u03b9;",
+        "hint": "Language with an ancient alphabet."
+    },
+    {
+        "language": "Czech",
+        "text": "Ahoj, jak se m\u00e1\u0161?",
+        "hint": "Language spoken in the Czech Republic."
+    },
+    {
+        "language": "Spanish",
+        "text": "Hola, \u00bfc\u00f3mo est\u00e1s?",
+        "hint": "Language spoken in Spain and much of Latin America."
+    },
+    {
+        "language": "Portuguese",
+        "text": "Ol\u00e1, como vai voc\u00ea?",
+        "hint": "Language spoken in Brazil and Portugal."
+    },
+    {
+        "language": "Danish",
+        "text": "Hej, hvordan g\u00e5r det?",
+        "hint": "Language spoken in Denmark."
+    },
+    {
+        "language": "Russian",
+        "text": "\u041f\u0440\u0438\u0432\u0435\u0442, \u043a\u0430\u043a \u0434\u0435\u043b\u0430?",
+        "hint": "Language with Cyrillic script."
+    },
+    {
+        "language": "Swedish",
+        "text": "Hej, hur m\u00e5r du?",
+        "hint": "Language of the Nobel Prize."
+    },
+    {
+        "language": "Italian",
+        "text": "Ciao, come stai?",
+        "hint": "Language of pizza and pasta."
+    },
+    {
+        "language": "Norwegian",
+        "text": "Hei, hvordan har du det?",
+        "hint": "Language spoken in Norway."
+    },
+    {
+        "language": "English",
+        "text": "Hello, how are you?",
+        "hint": "Widely spoken global language."
+    },
+    {
+        "language": "Romanian",
+        "text": "Bun\u0103, ce faci?",
+        "hint": "Romance language spoken in Romania."
+    },
+    {
+        "language": "Finnish",
+        "text": "Hei, mit\u00e4 kuuluu?",
+        "hint": "Uralic language spoken in Finland."
+    },
+    {
+        "language": "Hungarian",
+        "text": "Szia, hogy vagy?",
+        "hint": "Non-Indo-European language spoken in Hungary."
+    },
+    {
+        "language": "German",
+        "text": "Hallo, wie geht es dir?",
+        "hint": "Language associated with Oktoberfest."
+    },
+    {
+        "language": "Polish",
+        "text": "Cze\u015b\u0107, jak si\u0119 masz?",
+        "hint": "Slavic language spoken in Poland."
+    },
+    {
+        "language": "Dutch",
+        "text": "Hallo, hoe gaat het?",
+        "hint": "Language spoken in the Netherlands."
+    }
+]

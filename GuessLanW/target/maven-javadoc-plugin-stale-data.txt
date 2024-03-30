@@ -1,0 +1,83 @@
+@options
+@packages
+-classpath
+'C:/Users/nikod/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar;C:/Users/nikod/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar;C:/Users/nikod/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/nikod/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar;C:/Users/nikod/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar;C:/Users/nikod/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar;C:/Users/nikod/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar;C:/Users/nikod/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/nikod/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar;C:/Users/nikod/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar;C:/Users/nikod/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/nikod/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/nikod/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;C:/Users/nikod/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/nikod/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/nikod/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/nikod/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/nikod/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar;C:/Users/nikod/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar;C:/Users/nikod/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar;C:/Users/nikod/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/nikod/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar;C:/Users/nikod/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar;C:/Users/nikod/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/nikod/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/nikod/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar;C:/Users/nikod/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/nikod/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar;C:/Users/nikod/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar;C:/Users/nikod/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar;C:/Users/nikod/.m2/repository/org/apache/derbyclient/derby-client/10.14.2.0/derby-client-10.14.2.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/nikod/OneDrive/Dokumenty/NetBeansProjects/GuessLanW/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/nikod/OneDrive/Dokumenty/NetBeansProjects/GuessLanW/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GuessLanW-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/nikod/OneDrive/Dokumenty/NetBeansProjects/GuessLanW/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'GuessLanW-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+pl.polsl.lab1.nikodem.chylaszek.guessLan
+pl.polsl.lab1.nikodem.chylaszek.guessLan.jdbc
+pl.polsl.lab1.nikodem.chylaszek.guessLan.model
+pl.polsl.lab1.nikodem.chylaszek.guessLan.resources
+pl.polsl.lab1.nikodem.chylaszek.guessLan.servlet
+C:\Users\nikod\.m2\repository\jakarta\platform\jakarta.jakartaee-api\10.0.0\jakarta.jakartaee-api-10.0.0.jar = 1702292364455
+C:\Users\nikod\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\10.0.0\jakarta.jakartaee-web-api-10.0.0.jar = 1702292374604
+C:\Users\nikod\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1702292364744
+C:\Users\nikod\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\3.1.0\jakarta.servlet.jsp-api-3.1.0.jar = 1702292364842
+C:\Users\nikod\.m2\repository\jakarta\el\jakarta.el-api\5.0.1\jakarta.el-api-5.0.1.jar = 1702292368108
+C:\Users\nikod\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1702292364835
+C:\Users\nikod\.m2\repository\jakarta\faces\jakarta.faces-api\4.0.1\jakarta.faces-api-4.0.1.jar = 1702292368123
+C:\Users\nikod\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1702292369055
+C:\Users\nikod\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.1.0\jakarta.websocket-api-2.1.0.jar = 1702292365515
+C:\Users\nikod\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.1.0\jakarta.websocket-client-api-2.1.0.jar = 1702292368272
+C:\Users\nikod\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1702292369200
+C:\Users\nikod\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1702292369039
+C:\Users\nikod\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1702292369079
+C:\Users\nikod\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1702292369184
+C:\Users\nikod\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1702292369268
+C:\Users\nikod\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1702292371142
+C:\Users\nikod\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1702292370387
+C:\Users\nikod\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar = 1702292370520
+C:\Users\nikod\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar = 1702292371823
+C:\Users\nikod\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar = 1702292371643
+C:\Users\nikod\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1702292371671
+C:\Users\nikod\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.0.0\jakarta.authentication-api-3.0.0.jar = 1702292371789
+C:\Users\nikod\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\3.0.0\jakarta.security.enterprise-api-3.0.0.jar = 1702292371887
+C:\Users\nikod\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1702292372266
+C:\Users\nikod\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1702292372054
+C:\Users\nikod\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.0\jakarta.mail-api-2.1.0.jar = 1702292372818
+C:\Users\nikod\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1702292372120
+C:\Users\nikod\.m2\repository\jakarta\authorization\jakarta.authorization-api\2.1.0\jakarta.authorization-api-2.1.0.jar = 1702292372538
+C:\Users\nikod\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1702292372467
+C:\Users\nikod\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar = 1704622541066
+C:\Users\nikod\.m2\repository\org\apache\derbyclient\derby-client\10.14.2.0\derby-client-10.14.2.0.jar = 1704716955691
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\src\main\java = 1702310893124
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\allclasses-index.html = 1706471632994
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\allpackages-index.html = 1706471633000
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\element-list = 1706471632542
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\help-doc.html = 1706471633064
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\index-all.html = 1706471633051
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\index.html = 1706471632959
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\jquery-ui.overrides.css = 1706471633127
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\member-search-index.js = 1706471633013
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\module-search-index.js = 1706471633002
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\overview-summary.html = 1706471633055
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\overview-tree.html = 1706471632944
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\package-search-index.js = 1706471633006
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\script.js = 1706471633075
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\search.js = 1706471633085
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\serialized-form.html = 1706471632749
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\stylesheet.css = 1706471633070
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\tag-search-index.js = 1706471633018
+C:\Users\nikod\OneDrive\Dokumenty\NetBeansProjects\GuessLanW\target\site\apidocs\type-search-index.js = 1706471633009

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.polsl.lab1.nikodem.chylaszek.guessLan"},{"l":"pl.polsl.lab1.nikodem.chylaszek.guessLan.jdbc"},{"l":"pl.polsl.lab1.nikodem.chylaszek.guessLan.model"},{"l":"pl.polsl.lab1.nikodem.chylaszek.guessLan.resources"},{"l":"pl.polsl.lab1.nikodem.chylaszek.guessLan.servlet"}];updateSearchResults();

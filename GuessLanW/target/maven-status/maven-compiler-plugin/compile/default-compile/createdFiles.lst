@@ -1,0 +1,15 @@
+pl\polsl\lab1\nikodem\chylaszek\guessLan\jdbc\DatabaseConnectionManager.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\JakartaRestConfiguration.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\model\Player.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\jdbc\ActivityLogApp.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\jdbc\CreateTablesApp.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\resources\JakartaEE10Resource.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\jdbc\SaveResultsApp.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\servlet\Logs.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\model\Database.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\model\Question.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\servlet\Game.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\model\GameEngine.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\jdbc\SelectDataApp.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\servlet\Results.class
+pl\polsl\lab1\nikodem\chylaszek\guessLan\jdbc\InsertDataApp.class

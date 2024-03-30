@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css" type="text/css"/>
+        <title>Guess the Language Game</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                text-align: center;
+                margin-top: 50px;
+            }
+            .container {
+                width: 80%;
+                margin: auto;
+            }
+            input[type="text"], input[type="submit"], button {
+                margin-top: 10px;
+            }            
+        </style>
+    </head>
+    <body>
+        <img src="pngegg.png" alt="Logo" width="200" height="100" />
+        
+        <h1>Welcome in "Guess the Language" Game!</h1>
+        <p>Try to guess in which language the text is written!</p>
+
+        <hr>
+
+        <form action="Game" method="GET">
+            <p>Enter your nickname: <input type="text" size="20" name="name"><input type="submit" value="SUBMIT"/></p>
+        </form>
+
+        <hr>
+
+        <form action="Results" method="GET">
+            <input type="submit" value="CHECK BEST RESULTS"/>
+        </form>
+
+        <p></p>
+        <hr>
+
+        <form action="Logs" method="GET">
+            <input type="submit" value="CHECK LOGS"/>
+        </form>
+
+        <p></p>
+        <hr>
+
+        
+    </body>
+</html>
